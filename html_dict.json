@@ -1,0 +1,85 @@
+{
+  "name": "html",
+  "attrs": {},
+  "children": [
+    {
+      "name": "head",
+      "attrs": {},
+      "children": []
+    },
+    {
+      "name": "body",
+      "attrs": {},
+      "children": [
+        {
+          "name": "div",
+          "attrs": {
+            "class": "container"
+          },
+          "children": [
+            {
+              "name": "ul",
+              "attrs": {
+                "id": "headlines"
+              },
+              "children": [
+                {
+                  "name": "li",
+                  "attrs": {
+                    "class": "headline-item"
+                  },
+                  "text": "zero",
+                  "children": []
+                },
+                {
+                  "name": "li",
+                  "attrs": {
+                    "class": "headline-item"
+                  },
+                  "text": "one",
+                  "children": []
+                },
+                {
+                  "name": "li",
+                  "attrs": {
+                    "class": "headline-item"
+                  },
+                  "text": "two",
+                  "children": []
+                },
+                {
+                  "name": "li",
+                  "attrs": {
+                    "class": "headline-item"
+                  },
+                  "text": "three",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "div",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "name": "button",
+                      "attrs": {
+                        "id": "buy-now-btn"
+                      },
+                      "text": "Buy Now",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
